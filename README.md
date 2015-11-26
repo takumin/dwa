@@ -1,2 +1,2 @@
 # dwa
-*D*eployment for *W*indows *A*pplications
+**D**eployment for **W**indows **A**pplications
